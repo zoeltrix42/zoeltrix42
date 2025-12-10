@@ -63,8 +63,9 @@ Welcome to my GitHub profile — dive in and explore!
 ## 🔐 Cybersecurity
 <table>
 <tr>
+<td><img src="https://img.shields.io/badge/Kali_Linux-00ADEF?style=for-the-badge&logo=kali-linux&logoColor=white" title="Kali Linux"></td>
 <td><img src="https://img.shields.io/badge/Networking-TCP/IP-6C63FF?style=for-the-badge" title="Networking"></td>
-<td><img src="https://img.shields.io/badge/Mini-SIEM-343A40?style=for-the-badge" title="Mini-SIEM"></td>
+<td><img src="https://img.shields.io/badge/Mini%20SIEM-555555?style=for-the-badge&logo=none&logoColor=white" title="Mini-SIEM"></td>
 <td><img src="https://img.shields.io/badge/HackTheBox-6C63FF?style=for-the-badge" title="HackTheBox"></td>
 <td><img src="https://img.shields.io/badge/IoT_Security-009688?style=for-the-badge" title="IoT Security"></td>
 </tr>
