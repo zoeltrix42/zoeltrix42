@@ -1,16 +1,36 @@
-## Hi there 👋
+#  I'm zoeltrix42 
 
-<!--
-**zoeltrix42/zoeltrix42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring IoT and cybersecurity while building and learning every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Frontend
+- HTML & CSS básico  
+- Vue.js / Vuetify  
+- TailwindCSS, Bootstrap  
+- HTMX / PicoCSS (experiments)
+
+## 🖥️ Backend
+- Node.js  
+- Python  
+- PHP  
+- FastAPI, Express.js  
+- REST APIs
+
+## 🗄️ Databases
+- MongoDB  
+- MySQL  
+- InfluxDB
+
+## 🌐 IoT & Tools
+- ESP32 (con protoboard)  
+- TTN (The Things Network)  
+- Node-RED  
+- MQTT  
+- Grafana  
+
+## 🔐 Cybersecurity
+- Basics of networking (TCP/IP, OSI)  
+- Mini-SIEM development  
+- HackTheBox (tiers gratuitos completados)  
+- Security fundamentals for IoT
